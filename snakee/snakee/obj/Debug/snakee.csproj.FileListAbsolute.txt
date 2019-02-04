@@ -1,0 +1,9 @@
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\bin\Debug\snakee.exe.config
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\bin\Debug\snakee.exe
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\bin\Debug\snakee.pdb
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\obj\Debug\snakee.csprojResolveAssemblyReference.cache
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\obj\Debug\snakee.Form1.resources
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\obj\Debug\snakee.Properties.Resources.resources
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\obj\Debug\snakee.csproj.GenerateResource.Cache
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\obj\Debug\snakee.exe
+c:\users\denoctis\documents\visual studio 2015\Projects\snakee\snakee\obj\Debug\snakee.pdb
