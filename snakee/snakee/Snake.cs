@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace snakee
 {
-    public class Snakes
+    public class Snake
     {
         private PictureBox pb;
         private int length;
